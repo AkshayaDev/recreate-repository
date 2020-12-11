@@ -1,5 +1,4 @@
-# recreate-repository
-Recreate repository with current files only
+** Recreate repository with current files only
 
 -- Remove the history from 
 rm -rf .git
